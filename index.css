@@ -359,7 +359,9 @@ span.stat {
   margin-top: 50px;
 }
 .stat.red {
-  color: #c11;
+  background-color: #630707;
+  padding:0px 5px;
+  border-radius: 5px;
 }
 .faq p {
   padding-bottom: 0.8em;
